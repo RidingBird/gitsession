@@ -1,4 +1,7 @@
 {
     "liveServer.settings.port": 5501,
-    "git.enabled": true
+    "git.enabled": true,
+    "git.allowNoVerifyCommit": true,
+    "git.autofetch": "all",
+    "git.autofetchPeriod": 60
 }
